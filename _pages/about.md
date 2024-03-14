@@ -40,7 +40,7 @@ During my undergraduate studies, I participated in my university's programming c
 ✉️For more info
 ------
 <font face=consolas size=3>You can follow some of my accounts to know more about me:</font>
- [<font face=consolas size=3>My blogs</font>](https://eastpage.tech)  [<font face=consolas size=3>Nowcoder</font>](https://ac.nowcoder.com/acm/contest/profile/946259811) [<font face=consolas size=3>Codeforces</font>](https://codeforces.com/profile/EastGod) 
+ [<font face=consolas size=3>My blogs</font>](https://eastpage.tech) &emsp [<font face=consolas size=3>Nowcoder</font>](https://ac.nowcoder.com/acm/contest/profile/946259811) &emsp [<font face=consolas size=3>Codeforces</font>](https://codeforces.com/profile/EastGod) 
 
 
 
