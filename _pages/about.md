@@ -14,7 +14,11 @@ You can find my blogs here: </font> [<font face=consolas size=3>eastpage.tech</f
 📖Educations
 ======
 ![](https://github.com/East-Hu/Eastpage.github.io/blob/master/images/ningbotech.png)
-<font face=consolas size=3>NingboTech University</font>
+<font face=consolas size=3>Sept. 2020 - June 2024 (expected)
+
+Bachelor of Engineering
+
+School of Computer and Data Engineering, NingboTech University</font>
 <br /><br />
 
 🏆Awards
