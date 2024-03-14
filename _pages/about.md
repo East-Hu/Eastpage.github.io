@@ -37,7 +37,7 @@ During my undergraduate studies, I participated in my university's programming c
 <font face=consolas size=3>Sept. 2023 - Feb. 2024, Algorithm Engineer Intern, Zhejiang Lab, Hangzhou.</font>
 <br />
 
-🗎News
+🗎 News
 ------
 <font face=consolas size=3>● Mar. 2024 Preparing the secondary examination to ECNU<br />
 ● Feb. 2024 One collaborative paper is submitted to ECCV 2024<br />
