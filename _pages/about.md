@@ -18,7 +18,7 @@ You can find my blogs here:</font>[<font face=consolas size=3>eastpage.tech</fon
 
 🏆Awards
 ======
-<font face=consolas size=3> ● The 46th ICPC Asia Kunming Regional Contest, *Bronze Medal* <br />
+<font face=consolas size=3> ● The 46th ICPC Asia Kunming Regional Contest, \*_Bronze Medal_\*<br />
 ● The 47th ICPC Asia Jinan Regional Contest, *Bronze Medal*<br />
 ● The 47th ICPC Asia Nanjing Regional Contest, *Bronze Medal*<br />
 ● 2022 China Collegiate Programming Contest, Weihai Site, *Bronze Medal*<br />
