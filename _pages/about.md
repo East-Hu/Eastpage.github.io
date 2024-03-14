@@ -15,7 +15,7 @@ During my undergraduate studies, I participated in my university's programming c
 ======
 <div style="display:flex; align-items:center;"> <img src="https://img1.cfw.cn/20003/da5144b1cb34/4aa22422-05a5-4795-a63e-fcccea1626d1_300x300.jpg" alt="NingboTech" style="width:20%; height:20%; margin-right:10px;"> <span style="font-family:consolas; font-size:12pt;"> <font face="consolas" size="3">Sept. 2020 - June 2024 (expected)<br> Bachelor of Engineering<br> School of Computer and Data Engineering, NingboTech University</font> </span> </div>
 <br />
-<div style="display:flex; align-items:center;"> <img src="https://th.bing.com/th/id/OIP.i3bSymp6uhhTR_ZlxM9i2AAAAA?w=173&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="5zhong" style="width:20.3%; height:19.1%; margin-right:10px;"> <span style="font-family:consolas; font-size:12pt;"> <font face="consolas" size="3">Sept. 2017 - July 2020<br> Ningde No.5 High School of Fujian</font> </span> </div>
+<div style="display:flex; align-items:center;"> <img src="https://th.bing.com/th/id/OIP.i3bSymp6uhhTR_ZlxM9i2AAAAA?w=173&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="5zhong" style="width:20.3%; height:18.5%; margin-right:10px;"> <span style="font-family:consolas; font-size:12pt;"> <font face="consolas" size="3">Sept. 2017 - July 2020<br> Ningde No.5 High School of Fujian</font> </span> </div>
 <br /><br /><br />
 
 
