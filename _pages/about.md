@@ -13,7 +13,7 @@ You can find my blogs here: </font> [<font face=consolas size=3>eastpage.tech</f
 
 📖Educations
 ======
-![NingboTech](https://img1.cfw.cn/20003/da5144b1cb34/4aa22422-05a5-4795-a63e-fcccea1626d1_300x300.jpg =100x100)
+![NingboTech](https://img1.cfw.cn/20003/da5144b1cb34/4aa22422-05a5-4795-a63e-fcccea1626d1_300x300.jpg){:height="50%" width="50%"}
 <font face=consolas size=3>Sept. 2020 - June 2024 (expected)<br />
 
 Bachelor of Engineering<br />
@@ -36,7 +36,7 @@ School of Computer and Data Engineering, NingboTech University</font>
 
 💼Interships
 ------
-<font face=consolas size=3>Sept. 2023 - Dec. 2023, ML Research Intern, Zhejiang Lab, Hangzhou.</font>
+<font face=consolas size=3>Sept. 2023 - Feb. 2024, Algorithm Engineer Intern, Zhejiang Lab, Hangzhou.</font>
 
 
 
