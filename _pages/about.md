@@ -15,7 +15,7 @@ During my undergraduate studies, I participated in my university's programming c
 ======
 <img src="https://img1.cfw.cn/20003/da5144b1cb34/4aa22422-05a5-4795-a63e-fcccea1626d1_300x300.jpg" alt="NingboTech" style="vertical-align:top; width:20%; height:20%; display:inline-block; margin-right:10px;"> <span style="font-family:consolas; font-size:12pt; display:inline-block; vertical-align:top;"> <font face="consolas" size="3">Sept. 2020 - June 2024 (expected)<br> Bachelor of Engineering<br> School of Computer and Data Engineering, NingboTech University</font> </span>
 <br /><br />
-<img src="https://th.bing.com/th/id/OIP.i3bSymp6uhhTR_ZlxM9i2AAAAA?w=173&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="5zhong" style="vertical-align:top; width:17%; height:17%; display:inline-block; margin-right:10px;"> <span style="font-family:consolas; font-size:12pt; display:inline-block; vertical-align:top;"> <font face="consolas" size="3">Sept. 2017 - July 2020<br> Ningde No.5 High School of Fujian</font> </span>
+<img src="https://th.bing.com/th/id/OIP.i3bSymp6uhhTR_ZlxM9i2AAAAA?w=173&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="5zhong" style="vertical-align:top; width:19%; height:19%; display:inline-block; margin-right:10px;"> <span style="font-family:consolas; font-size:12pt; display:inline-block; vertical-align:top;"> <font face="consolas" size="3">Sept. 2017 - July 2020<br> Ningde No.5 High School of Fujian</font> </span>
 <br /><br />
 
 
@@ -39,9 +39,11 @@ During my undergraduate studies, I participated in my university's programming c
 
 🗎News
 ------
-<font face=consolas size=3>Feb. 2024 One collaborative paper is submitted to ECCV</font>
-
-<font face=consolas size=3>Nov. 2023 One collaborative paper is submitted to CVPR</font>
+<font face=consolas size=3>Mar. 2024 Preparing the secondary examination to ECNU</font>
+<font face=consolas size=3>Feb. 2024 One collaborative paper is submitted to ECCV 2024</font>
+<font face=consolas size=3>Dec. 2023 Finishing the national entrance examination for postgraduate</font>
+<font face=consolas size=3>Nov. 2023 One collaborative paper is submitted to CVPR 2024</font>
+<font face=consolas size=3>Jul. 2023 Attending the summer school program at Queen's University Belfast in the UK</font>
 <br />
 
 ✉️For more info
