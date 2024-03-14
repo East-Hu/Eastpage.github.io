@@ -32,5 +32,10 @@ You can find my blogs here: </font> [<font face=consolas size=3>eastpage.tech</f
 ------
 <font face=consolas size=3>Sept. 2023 - Feb. 2024, Algorithm Engineer Intern, Zhejiang Lab, Hangzhou.</font>
 
+✉️For more info
+------
+<font face=consolas size=3>You can follow some of my accounts to know more about me:</font>
+ [<font face=consolas size=3>My blogs</font>](https://eastpage.tech)  [<font face=consolas size=3>Nowcoder</font>](https://ac.nowcoder.com/acm/contest/profile/946259811) [<font face=consolas size=3>Codeforces</font>](https://codeforces.com/profile/EastGod) 
+
 
 
