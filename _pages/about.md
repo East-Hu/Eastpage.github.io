@@ -18,15 +18,15 @@ You can find my blogs here:</font>[<font face=consolas size=3>eastpage.tech</fon
 
 🏆Awards
 ======
-<font face=consolas size=3> ● The 46th ICPC Asia Kunming Regional Contest, Bronze Medal <br />
-● The 47th ICPC Asia Jinan Regional Contest, Bronze Medal<br />
-● The 47th ICPC Asia Nanjing Regional Contest, Bronze Medal<br />
-● 2022 China Collegiate Programming Contest, Weihai Site, Bronze Medal<br />
-● The 20th Zhejiang Provincial Collegiate Programming Contest, Bronze Medal<br />
-● The 19th Zhejiang Provincial Collegiate Programming Contest, Bronze Medal<br />
-● The 8th Group Programming Ladder Tournament, Bronze Medal<br />
-● The 7th Group Programming Ladder Tournament, Team Bronze Medal<br />
-● The 6th Group Programming Ladder Tournament, Bronze Medal</font>
+<font face=consolas size=3> ● The 46th ICPC Asia Kunming Regional Contest, *Bronze Medal* <br />
+● The 47th ICPC Asia Jinan Regional Contest, *Bronze Medal*<br />
+● The 47th ICPC Asia Nanjing Regional Contest, *Bronze Medal*<br />
+● 2022 China Collegiate Programming Contest, Weihai Site, *Bronze Medal*<br />
+● The 20th Zhejiang Provincial Collegiate Programming Contest, *Bronze Medal*<br />
+● The 19th Zhejiang Provincial Collegiate Programming Contest, *Bronze Medal*<br />
+● The 8th Group Programming Ladder Tournament, *Bronze Medal*<br />
+● The 7th Group Programming Ladder Tournament, *Team Bronze Medal*<br />
+● The 6th Group Programming Ladder Tournament, *Bronze Medal*</font>
 <br /><br />
 
 💼Interships
