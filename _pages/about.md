@@ -13,13 +13,9 @@ You can find my blogs here: </font> [<font face=consolas size=3>eastpage.tech</f
 
 📖Educations
 ======
-![NingboTech](https://img1.cfw.cn/20003/da5144b1cb34/4aa22422-05a5-4795-a63e-fcccea1626d1_300x300.jpg){:height="10%" width="10%"}<br />
-<font face=consolas size=3>Sept. 2020 - June 2024 (expected)<br />
+<img src="https://img1.cfw.cn/20003/da5144b1cb34/4aa22422-05a5-4795-a63e-fcccea1626d1_300x300.jpg" alt="NingboTech" style="vertical-align:top; width:10%; height:10%;"> <span style="font-family:consolas; font-size:12px; display:inline-block; vertical-align:top;">Sept. 2020 - June 2024 (expected)<br>Bachelor of Engineering<br>School of Computer and Data Engineering, NingboTech University</span>
 
-Bachelor of Engineering<br />
-
-School of Computer and Data Engineering, NingboTech University</font>
-<br /><br />
+<br>
 
 🏆Awards
 ======
