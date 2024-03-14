@@ -15,6 +15,7 @@ Educations
 ======
 <font face=consolas size=3>NingboTech University</font>
 <br /><br />
+
 Awards
 ======
 <font face=consolas size=3> - 第46届ICPC亚洲区域赛(昆明)铜奖<br />
@@ -27,6 +28,7 @@ Awards
 - 2022年中国团体程序设计天梯赛团队三等奖<br />
 - 2021年中国团体程序设计天梯赛个人&团队三等奖</font>
 <br /><br />
+
 Interships
 ------
 <font face=consolas size=3>Sept. 2023 - Dec. 2023, ML Research Intern, Zhejiang Lab, Hangzhou.</font>
