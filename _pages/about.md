@@ -18,15 +18,15 @@ Educations
 
 Awards
 ======
-<font face=consolas size=3> - 第46届ICPC亚洲区域赛(昆明)铜奖<br />
-- 第47届ICPC亚洲区域赛(济南)铜奖<br />
-- 第47届ICPC亚洲区域赛(南京)铜奖<br />
-- 2022年中国大学生程序设计竞赛(威海)铜奖<br />
-- 2023年浙江省大学生程序设计竞赛铜奖<br />
-- 2022年浙江省大学生程序设计竞赛铜奖<br />
-- 2023年中国团体程序设计天梯赛个人&团队三等奖<br />
-- 2022年中国团体程序设计天梯赛团队三等奖<br />
-- 2021年中国团体程序设计天梯赛个人&团队三等奖</font>
+<font face=consolas size=3> - The 46th ICPC Asia Kunming Regional Contest, Bronze Medal <br />
+- The 47th ICPC Asia Jinan Regional Contest, Bronze Medal<br />
+- The 47th ICPC Asia Nanjing Regional Contest, Bronze Medal<br />
+- 2022 China Collegiate Programming Contest, Weihai Site, Bronze Medal<br />
+- The 20th Zhejiang Provincial Collegiate Programming Contest, Bronze Medal<br />
+- The 19th Zhejiang Provincial Collegiate Programming Contest, Bronze Medal<br />
+- The 8th Group Programming Ladder Tournament, Bronze Medal<br />
+- The 7th Group Programming Ladder Tournament, Team Bronze Medal<br />
+- The 6th Group Programming Ladder Tournament, Bronze Medal</font>
 <br /><br />
 
 Interships
