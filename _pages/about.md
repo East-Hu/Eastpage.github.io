@@ -13,7 +13,7 @@ You can find my blogs here: </font> [<font face=consolas size=3>eastpage.tech</f
 
 📖Educations
 ======
-![](https://www.bing.com/images/search?view=detailV2&ccid=ZC7u1vDk&id=332DCD9F12C6C3829AF736638F9AABB5C5E21093&thid=OIP.ZC7u1vDk4d3xwbh0jRUacwAAAA&mediaurl=https%3a%2f%2fimg1.cfw.cn%2f20003%2fda5144b1cb34%2f4aa22422-05a5-4795-a63e-fcccea1626d1_300x300.jpg&exph=300&expw=300&q=%e6%b5%99%e5%a4%a7%e5%ae%81%e6%b3%a2%e7%90%86%e5%b7%a5%e5%ad%a6%e9%99%a2&simid=607991954744152599&FORM=IRPRST&ck=6557BCD0FCDFAC3E7533564A5804BA2B&selectedIndex=37&itb=0)
+![NingboTech](https://www.bing.com/images/search?view=detailV2&ccid=ZC7u1vDk&id=332DCD9F12C6C3829AF736638F9AABB5C5E21093&thid=OIP.ZC7u1vDk4d3xwbh0jRUacwAAAA&mediaurl=https%3a%2f%2fimg1.cfw.cn%2f20003%2fda5144b1cb34%2f4aa22422-05a5-4795-a63e-fcccea1626d1_300x300.jpg&exph=300&expw=300&q=%e6%b5%99%e5%a4%a7%e5%ae%81%e6%b3%a2%e7%90%86%e5%b7%a5%e5%ad%a6%e9%99%a2&simid=607991954744152599&FORM=IRPRST&ck=6557BCD0FCDFAC3E7533564A5804BA2B&selectedIndex=37&itb=0)
 <font face=consolas size=3>Sept. 2020 - June 2024 (expected)<br />
 
 Bachelor of Engineering<br />
