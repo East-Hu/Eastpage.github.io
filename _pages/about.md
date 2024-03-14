@@ -39,10 +39,10 @@ During my undergraduate studies, I participated in my university's programming c
 
 🗎News
 ------
-<font face=consolas size=3>● Mar. 2024 Preparing the secondary examination to ECNU</font><br />
-● Feb. 2024 One collaborative paper is submitted to ECCV 2024</font><br />
-● Dec. 2023 Finishing the national entrance examination for postgraduate</font><br />
-● Nov. 2023 One collaborative paper is submitted to CVPR 2024</font><br />
+<font face=consolas size=3>● Mar. 2024 Preparing the secondary examination to ECNU<br />
+● Feb. 2024 One collaborative paper is submitted to ECCV 2024<br />
+● Dec. 2023 Finishing the national entrance examination for postgraduate<br />
+● Nov. 2023 One collaborative paper is submitted to CVPR 2024<br />
 ● Jul. 2023 Attending the summer school program at Queen's University Belfast in the UK</font>
 <br />
 
