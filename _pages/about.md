@@ -15,8 +15,8 @@ During my undergraduate studies, I participated in my university's programming c
 ======
 <img src="https://img1.cfw.cn/20003/da5144b1cb34/4aa22422-05a5-4795-a63e-fcccea1626d1_300x300.jpg" alt="NingboTech" style="vertical-align:top; width:20%; height:20%; display:inline-block; margin-right:10px;"> <span style="font-family:consolas; font-size:12pt; display:inline-block; vertical-align:top;"> <font face="consolas" size="3">Sept. 2020 - June 2024 (expected)<br> Bachelor of Engineering<br> School of Computer and Data Engineering, NingboTech University</font> </span>
 <br /><br />
-<img src="https://th.bing.com/th/id/OIP.i3bSymp6uhhTR_ZlxM9i2AAAAA?w=173&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="5zhong" style="vertical-align:top; width:15%; height:15%; display:inline-block; margin-right:10px;"> <span style="font-family:consolas; font-size:12pt; display:inline-block; vertical-align:top;"> <font face="consolas" size="3">Sept. 2017 - July 2020<br> Ningde No.5 High School of Fujian</font> </span>
-<br />
+<img src="https://th.bing.com/th/id/OIP.i3bSymp6uhhTR_ZlxM9i2AAAAA?w=173&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="5zhong" style="vertical-align:top; width:17%; height:17%; display:inline-block; margin-right:10px;"> <span style="font-family:consolas; font-size:12pt; display:inline-block; vertical-align:top;"> <font face="consolas" size="3">Sept. 2017 - July 2020<br> Ningde No.5 High School of Fujian</font> </span>
+<br /><br />
 
 
 🏆Awards
@@ -40,7 +40,7 @@ During my undergraduate studies, I participated in my university's programming c
 ✉️For more info
 ------
 <font face=consolas size=3>You can follow some of my accounts to know more about me:</font>
- [<font face=consolas size=3>My blogs</font>](https://eastpage.tech) &emsp [<font face=consolas size=3>Nowcoder</font>](https://ac.nowcoder.com/acm/contest/profile/946259811) &emsp [<font face=consolas size=3>Codeforces</font>](https://codeforces.com/profile/EastGod) 
+ [<font face=consolas size=3>My blogs</font>](https://eastpage.tech) &nbsp&nbsp [<font face=consolas size=3>Nowcoder</font>](https://ac.nowcoder.com/acm/contest/profile/946259811) &nbsp&nbsp [<font face=consolas size=3>Codeforces</font>](https://codeforces.com/profile/EastGod) 
 
 
 
