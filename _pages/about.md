@@ -13,6 +13,7 @@ You can find my blogs here: </font>[<font face=consolas size=3>eastpage.tech</fo
 
 📖Educations
 ======
+<img src='/images/ningbotech.png'>
 <font face=consolas size=3>NingboTech University</font>
 <br /><br />
 
