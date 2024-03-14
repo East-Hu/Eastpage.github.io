@@ -17,8 +17,7 @@ Educations
 
 Awards
 ======
-<font face=consolas>
-- 第46届ICPC亚洲区域赛(昆明)铜奖<br />
+<font face=consolas>- 第46届ICPC亚洲区域赛(昆明)铜奖<br />
 - 第47届ICPC亚洲区域赛(济南)铜奖<br />
 - 第47届ICPC亚洲区域赛(南京)铜奖<br />
 - 2022年中国大学生程序设计竞赛(威海)铜奖<br />
