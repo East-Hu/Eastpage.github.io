@@ -26,7 +26,7 @@ During my undergraduate studies, I participated in my university's programming c
 ● The 8th Group Programming Ladder Tournament, Bronze Medal<br />
 ● The 7th Group Programming Ladder Tournament, Team Bronze Medal<br />
 ● The 6th Group Programming Ladder Tournament, Bronze Medal</font>
-<br /><br />
+<br />
 
 💼Interships
 ------
