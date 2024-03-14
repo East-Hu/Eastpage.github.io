@@ -37,10 +37,17 @@ During my undergraduate studies, I participated in my university's programming c
 <font face=consolas size=3>Sept. 2023 - Feb. 2024, Algorithm Engineer Intern, Zhejiang Lab, Hangzhou.</font>
 <br />
 
+🗎News
+------
+<font face=consolas size=3>Feb. 2024 One collaborative paper is submitted to ECCV</font>
+
+<font face=consolas size=3>Nov. 2023 One collaborative paper is submitted to CVPR</font>
+<br />
+
 ✉️For more info
 ------
 <font face=consolas size=3>You can follow some of my accounts to know more about me:</font>
- [<font face=consolas size=3>My blogs</font>](https://eastpage.tech) &nbsp&nbsp [<font face=consolas size=3>Nowcoder</font>](https://ac.nowcoder.com/acm/contest/profile/946259811) &nbsp&nbsp [<font face=consolas size=3>Codeforces</font>](https://codeforces.com/profile/EastGod) 
+ [<font face=consolas size=3>My blogs</font>](https://eastpage.tech)    [<font face=consolas size=3>Nowcoder</font>](https://ac.nowcoder.com/acm/contest/profile/946259811)     [<font face=consolas size=3>Codeforces</font>](https://codeforces.com/profile/EastGod) 
 
 
 
