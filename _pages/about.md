@@ -13,7 +13,7 @@ You can find my blogs here: </font> [<font face=consolas size=3>eastpage.tech</f
 
 📖Educations
 ======
-<img src='https://github.com/East-Hu/Eastpage.github.io/blob/master/images/ningbotech.png'>
+![](https://github.com/East-Hu/Eastpage.github.io/blob/master/images/ningbotech.png)
 <font face=consolas size=3>NingboTech University</font>
 <br /><br />
 
