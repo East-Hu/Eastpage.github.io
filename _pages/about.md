@@ -9,7 +9,7 @@ redirect_from:
 ---
 <font face=consolas size=3>I am currently a senior </font>[<font face=consolas size=3>School of Computer and Data Engineering</font>](https://sjxy.nbt.edu.cn/), <font face=consolas size=3>NingboTech University(浙大宁波理工学院). I have participated in some scientific research projects about AIGC at Zhejiang lab. In the future, my research interests include large models and 3D reconstruction.<br /><br />
 During my undergraduate studies, I participated in my university's programming competition team. Throughout my three years of competition experience, I won several awards. This experience laid a solid foundation for my programming skills. In the future, I would like to continue my studies and complete a master's degree on a higher level platform. I also want to contribute my strengths to the field of artificial intelligence.<br /><br />
-You can find my blogs here:</font>[<font face=consolas size=3>eastpage.tech</font>](https://eastpage.tech).<br /> <br />
+You can find my blogs here: </font>[<font face=consolas size=3>eastpage.tech</font>](https://eastpage.tech).<br /> <br />
 
 📖Educations
 ======
