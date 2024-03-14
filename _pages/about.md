@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "👋About Me"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
@@ -11,12 +11,12 @@ redirect_from:
 During my undergraduate studies, I participated in my university's programming competition team. Throughout my three years of competition experience, I won several awards. This experience laid a solid foundation for my programming skills. In the future, I would like to continue my studies and complete a master's degree on a higher level platform. I also want to contribute my strengths to the field of artificial intelligence.<br /><br />
 You can find my blogs here:[<font face=consolas size=3>eastpage.tech</font>](https://eastpage.tech). </font><br /> <br />
 
-Educations
+📖Educations
 ======
 <font face=consolas size=3>NingboTech University</font>
 <br /><br />
 
-Awards
+🏆Awards
 ======
 <font face=consolas size=3> ● The 46th ICPC Asia Kunming Regional Contest, Bronze Medal <br />
 ● The 47th ICPC Asia Jinan Regional Contest, Bronze Medal<br />
@@ -29,7 +29,7 @@ Awards
 ● The 6th Group Programming Ladder Tournament, Bronze Medal</font>
 <br /><br />
 
-Interships
+💼Interships
 ------
 <font face=consolas size=3>Sept. 2023 - Dec. 2023, ML Research Intern, Zhejiang Lab, Hangzhou.</font>
 
