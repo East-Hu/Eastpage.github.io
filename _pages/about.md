@@ -21,9 +21,9 @@ During my undergraduate studies, I participated in my university's programming c
 
 🏆<font face=consolas size=6>Awards</font>
 ------
-<font face=consolas size=3> ● The 46th ICPC Asia Kunming Regional Contest, Bronze Medal<br />
-● The 47th ICPC Asia Jinan Regional Contest, Bronze Medal<br />
-● The 47th ICPC Asia Nanjing Regional Contest, Bronze Medal<br />
+<font face=consolas size=3> ● The 46th ICPC Asia Kunming Regional Contest, 𝐵𝑟𝑜𝑛𝑧𝑒 𝑀𝑒𝑑𝑎𝑙<br />
+● The 47th ICPC Asia Jinan Regional Contest, 𝐵𝑟𝑜𝑛𝑧𝑒 𝑀𝑒𝑑𝑎𝑙<br />
+● The 47th ICPC Asia Nanjing Regional Contest, 𝐵𝑟𝑜𝑛𝑧𝑒 𝑀𝑒𝑑𝑎𝑙<br />
 ● 2022 China Collegiate Programming Contest, Weihai Site, 𝐵𝑟𝑜𝑛𝑧𝑒 𝑀𝑒𝑑𝑎𝑙<br />
 ● The 20th Zhejiang Provincial Collegiate Programming Contest, 𝐵𝑟𝑜𝑛𝑧𝑒 𝑀𝑒𝑑𝑎𝑙<br />
 ● The 19th Zhejiang Provincial Collegiate Programming Contest, 𝐵𝑟𝑜𝑛𝑧𝑒 𝑀𝑒𝑑𝑎𝑙<br />
