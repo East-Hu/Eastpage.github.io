@@ -32,7 +32,7 @@ During my undergraduate studies, I participated in my university's programming c
 ● The 6th Group Programming Ladder Tournament, Team Silver Medal</font>
 <br />
 
-💼<font face=consolas size=6>Interships</font>
+💼<font face=consolas size=6>Internships</font>
 ------
 <font face=consolas size=3>Sept. 2023 - Feb. 2024, Algorithm Engineer Intern, Zhejiang Lab, Hangzhou.</font>
 <br />
