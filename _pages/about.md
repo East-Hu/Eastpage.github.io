@@ -29,7 +29,7 @@ During my undergraduate studies, I participated in my university's programming c
 ● The 19th Zhejiang Provincial Collegiate Programming Contest, 𝐵𝑟𝑜𝑛𝑧𝑒 𝑀𝑒𝑑𝑎𝑙<br />
 ● The 8th Group Programming Ladder Tournament, 𝑇𝑒𝑎𝑚 𝑆𝑖𝑙𝑣𝑒𝑟 𝑀𝑒𝑑𝑎𝑙<br />
 ● The 7th Group Programming Ladder Tournament, 𝑇𝑒𝑎𝑚 𝐵𝑟𝑜𝑛𝑧𝑒 𝑀𝑒𝑑𝑎𝑙<br />
-● The 6th Group Programming Ladder Tournament, 𝑇𝑒𝑎𝑚 𝑆𝑖𝑙𝑣𝑒𝑟 𝑀𝑒𝑑𝑎𝑙</font>
+● The 6th Group Programming Ladder Tournament, 𝓣𝓮𝓪𝓶 𝓢𝓲𝓵𝓿𝓮𝓻 𝓜𝓮𝓭𝓪𝓵</font>
 <br />
 
 💼<font face=consolas size=6>Internships</font>
