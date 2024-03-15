@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋About Me"
+title: "👋<font face=consolas size=6>About Me</font>"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
@@ -19,7 +19,7 @@ During my undergraduate studies, I participated in my university's programming c
 <br /><br /><br />
 
 
-🏆Awards
+🏆<font face=consolas size=6>Awards</font>
 ------
 <font face=consolas size=3> ● The 46th ICPC Asia Kunming Regional Contest, Bronze Medal<br />
 ● The 47th ICPC Asia Jinan Regional Contest, Bronze Medal<br />
@@ -32,12 +32,12 @@ During my undergraduate studies, I participated in my university's programming c
 ● The 6th Group Programming Ladder Tournament, Team Silver Medal</font>
 <br />
 
-💼Interships
+💼<font face=consolas size=6>Interships</font>
 ------
 <font face=consolas size=3>Sept. 2023 - Feb. 2024, Algorithm Engineer Intern, Zhejiang Lab, Hangzhou.</font>
 <br />
 
-📰News
+📰<font face=consolas size=6>News</font>
 ------
 <font face=consolas size=3>● Mar. 2024 Preparing the secondary examination to ECNU<br />
 ● Feb. 2024 One collaborative paper is submitted to ECCV 2024<br />
@@ -46,7 +46,7 @@ During my undergraduate studies, I participated in my university's programming c
 ● Jul. 2023 Attending the summer school program at Queen's University Belfast in the UK</font>
 <br />
 
-✉️For more info
+✉️<font face=consolas size=6>For more info</font>
 ------
 <font face=consolas size=3>You can follow some of my accounts to know more about me:</font>
  [<font face=consolas size=3>My blogs</font>](https://eastpage.tech)    / [<font face=consolas size=3>Nowcoder</font>](https://ac.nowcoder.com/acm/contest/profile/946259811)   /  [<font face=consolas size=3>Codeforces</font>](https://codeforces.com/profile/EastGod)   /  [<font face=consolas size=3>Zhihu</font>](https://www.zhihu.com/people/markxian-sheng-41)     /        [<font face=consolas size=3>Maimai</font>](https://maimai.cn/profile/detail?dstu=236043030)  /   [<font face=consolas size=3>Feishu</font>](https://github.com/East-Hu/Eastpage.github.io/blob/master/images/feishu.jpg)
