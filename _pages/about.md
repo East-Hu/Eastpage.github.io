@@ -27,9 +27,9 @@ During my undergraduate studies, I participated in my university's programming c
 ● 2022 China Collegiate Programming Contest, Weihai Site, Bronze Medal<br />
 ● The 20th Zhejiang Provincial Collegiate Programming Contest, Bronze Medal<br />
 ● The 19th Zhejiang Provincial Collegiate Programming Contest, Bronze Medal<br />
-● The 8th Group Programming Ladder Tournament, Team Silver Medal & Individual Bronze Medal<br />
+● The 8th Group Programming Ladder Tournament, Team Silver Medal<br />
 ● The 7th Group Programming Ladder Tournament, Team Bronze Medal<br />
-● The 6th Group Programming Ladder Tournament, Team Silver Medal & Individual Bronze Medal</font>
+● The 6th Group Programming Ladder Tournament, Team Silver Medal</font>
 <br />
 
 💼Interships
