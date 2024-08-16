@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font face=consolas size=3>I am currently a senior undergraduate student School of Computer and Data Engineering, NingboTech University. I have participated in some scientific research projects about AIGC at Zhejiang Lab. In the future, my research interests include large models and 3D reconstruction.<br /><br />
+<font face=consolas size=3>I am currently a undergraduate student School of Computer and Data Engineering, NingboTech University. I have participated in some scientific research projects about Computer Vision at Zhejiang Lab. In the future, my research interests include machine learning, large models and 3D reconstruction.<br /><br />
 During my undergraduate studies, I participated in my university's programming competition team. Throughout my three years of competition experience, I won several awards. This experience laid a solid foundation for my programming skills. In the future, I would like to continue my studies and complete a master's degree on a higher level platform. </font><br /><br />
 
 
 📖<font face=consolas size=6>Educations</font>
 ------
-<div style="display:flex; align-items:center;"> <img src="https://img1.cfw.cn/20003/da5144b1cb34/4aa22422-05a5-4795-a63e-fcccea1626d1_300x300.jpg" alt="NingboTech" style="width:20%; height:20%; margin-right:10px;"> <span style="font-family:consolas; font-size:12pt;"> <font face="consolas" size="3">Sept. 2020 - June 2024 (expected)<br> Bachelor of Engineering<br> School of Computer and Data Engineering, NingboTech University</font> </span> </div>
+<div style="display:flex; align-items:center;"> <img src="https://img1.cfw.cn/20003/da5144b1cb34/4aa22422-05a5-4795-a63e-fcccea1626d1_300x300.jpg" alt="NingboTech" style="width:20%; height:20%; margin-right:10px;"> <span style="font-family:consolas; font-size:12pt;"> <font face="consolas" size="3">Sept. 2020 - June 2024<br> Bachelor of Engineering<br> School of Computer and Data Engineering, NingboTech University</font> </span> </div>
 <br />
 <div style="display:flex; align-items:center;"> <img src="https://tse4-mm.cn.bing.net/th/id/OIP-C.i3bSymp6uhhTR_ZlxM9i2AAAAA?w=175&h=180&c=7&r=0&o=5&pid=1.7" alt="5zhong" style="width:20.3%; height:18.5%; margin-right:10px;"> <span style="font-family:consolas; font-size:12pt;"> <font face="consolas" size="3">Sept. 2017 - July 2020<br> Ningde No.5 High School of Fujian</font> </span> </div>
 <br /><br /><br />
@@ -39,7 +39,9 @@ During my undergraduate studies, I participated in my university's programming c
 
 📰<font face=consolas size=6>News</font>
 ------
-<font face=consolas size=3>● Mar. 2024 Preparing the secondary examination to ECNU<br />
+<font face=consolas size=3>● Jun. 2024 Received an honours diploma from Zhejiang University<br />
+● Jun. 2024 Graduated from NingboTech University<br />
+● Mar. 2024 Preparing the secondary examination to ECNU<br />
 ● Feb. 2024 One collaborative paper is submitted to ECCV 2024<br />
 ● Dec. 2023 Finishing the national entrance examination for postgraduate<br />
 ● Nov. 2023 One collaborative paper is submitted to CVPR 2024<br />
