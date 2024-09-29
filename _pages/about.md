@@ -9,7 +9,7 @@ redirect_from:
 ---
 <font face=consolas size=3>I am currently preparing to begin my Ph.D. studies in Computer Science at Georgia State University, starting January 2025. I will be working under the supervision of Assistant Professor <a href="https://qinhu2010.github.io">Qin Hu</a>, focusing my research on Security and Privacy as well as Federated Learning.<br /><br />
 Previously, I was an undergraduate student in the School of Computer and Data Engineering at NingboTech University. During that time, I participated in scientific research projects on Computer Vision at Zhejiang Lab. My research interests have evolved to include machine learning, large models, and 3D reconstruction.<br /><br />
-During my undergraduate studies, I participated in my university's programming competition team. Throughout my three years of competition experience, I won several awards. This experience laid a solid foundation for my programming skills. In the future, I would like to continue my studies and complete a master's degree on a higher level platform. </font><br /><br />
+During my undergraduate studies, I participated in my university's programming competition team. Throughout my three years of competition experience, I won several awards. This experience laid a solid foundation for my programming skills. </font><br /><br />
 
 
 📖<font face=consolas size=6>Educations</font>
