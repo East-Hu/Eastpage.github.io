@@ -42,7 +42,8 @@ During my undergraduate studies, I participated in my university's programming c
 
 📰<font face=consolas size=6>News</font>
 ------
-<font face=consolas size=3>● Jun. 2024 Received an honours diploma from Zhejiang University<br />
+<font face=consolas size=3>● Sep. 2024 Admitted to the Ph.D. program in Computer Science at Georgia State University.<br />
+● Jun. 2024 Received an honours diploma from Zhejiang University<br />
 ● Jun. 2024 Graduated from NingboTech University<br />
 ● Mar. 2024 Preparing the secondary examination to ECNU<br />
 ● Feb. 2024 One collaborative paper is submitted to ECCV 2024<br />
