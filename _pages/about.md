@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <font face=consolas size=3>I am currently preparing to begin my Ph.D. studies in Computer Science at Georgia State University, starting January 2025. I will be working under the supervision of Assistant Professor <a href="https://qinhu2010.github.io">Qin Hu</a>. My research interests have evolved to include Security and Privacy, Federated Learning, and Edge computing.<br /><br />
-Previously, I was an undergraduate student in the School of Computer and Data Engineering at NingboTech University. During that time, I participated in scientific research projects on Computer Vision at Zhejiang Lab.<br /><br />
+Previously, I got my Bachelor’s Degree in Computer Science and Technology at NingboTech University after four years of study from September 2020 to June 2024.<br /><br />
 During my undergraduate studies, I participated in my university's programming competition team. Throughout my three years of competition experience, I won several awards. This experience laid a solid foundation for my programming skills. </font><br /><br />
 
 
